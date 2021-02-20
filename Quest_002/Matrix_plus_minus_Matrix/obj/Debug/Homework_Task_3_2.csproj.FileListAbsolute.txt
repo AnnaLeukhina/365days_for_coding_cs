@@ -1,0 +1,7 @@
+C:\Users\helen\GitLab_SkillBox\cs_developer_from_0_to_pro\4.1_Исходники\Theme_04\Homework_Task_3_2\bin\Debug\Homework_Task_3_2.exe.config
+C:\Users\helen\GitLab_SkillBox\cs_developer_from_0_to_pro\4.1_Исходники\Theme_04\Homework_Task_3_2\bin\Debug\Homework_Task_3_2.exe
+C:\Users\helen\GitLab_SkillBox\cs_developer_from_0_to_pro\4.1_Исходники\Theme_04\Homework_Task_3_2\bin\Debug\Homework_Task_3_2.pdb
+C:\Users\helen\GitLab_SkillBox\cs_developer_from_0_to_pro\4.1_Исходники\Theme_04\Homework_Task_3_2\obj\Debug\Homework_Task_3_2.csproj.CoreCompileInputs.cache
+C:\Users\helen\GitLab_SkillBox\cs_developer_from_0_to_pro\4.1_Исходники\Theme_04\Homework_Task_3_2\obj\Debug\Homework_Task_3_2.exe
+C:\Users\helen\GitLab_SkillBox\cs_developer_from_0_to_pro\4.1_Исходники\Theme_04\Homework_Task_3_2\obj\Debug\Homework_Task_3_2.pdb
+C:\Users\helen\GitLab_SkillBox\cs_developer_from_0_to_pro\4.1_Исходники\Theme_04\Homework_Task_3_2\obj\Debug\Homework_Task_3_2.csprojAssemblyReference.cache
