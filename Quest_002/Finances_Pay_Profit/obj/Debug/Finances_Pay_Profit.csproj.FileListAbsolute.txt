@@ -1,7 +1,6 @@
 C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Finances_Pay_Profit\bin\Debug\Homework_Task_1.exe.config
 C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Finances_Pay_Profit\bin\Debug\Homework_Task_1.exe
 C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Finances_Pay_Profit\bin\Debug\Homework_Task_1.pdb
-C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Finances_Pay_Profit\obj\Debug\Finances_Pay_Profit.csprojAssemblyReference.cache
 C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Finances_Pay_Profit\obj\Debug\Finances_Pay_Profit.csproj.CoreCompileInputs.cache
 C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Finances_Pay_Profit\obj\Debug\Homework_Task_1.exe
 C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Finances_Pay_Profit\obj\Debug\Homework_Task_1.pdb

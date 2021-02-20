@@ -1,0 +1,12 @@
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Homework_Task_2\bin\Debug\Homework_Task_2.exe.config
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Homework_Task_2\bin\Debug\Homework_Task_2.exe
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Homework_Task_2\bin\Debug\Homework_Task_2.pdb
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Homework_Task_2\obj\Debug\Triangle_of_Pascal.csproj.CoreCompileInputs.cache
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Homework_Task_2\obj\Debug\Homework_Task_2.exe
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Homework_Task_2\obj\Debug\Homework_Task_2.pdb
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Triangle_of_Pascal\bin\Debug\Homework_Task_2.exe.config
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Triangle_of_Pascal\bin\Debug\Homework_Task_2.exe
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Triangle_of_Pascal\bin\Debug\Homework_Task_2.pdb
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Triangle_of_Pascal\obj\Debug\Triangle_of_Pascal.csproj.CoreCompileInputs.cache
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Triangle_of_Pascal\obj\Debug\Homework_Task_2.exe
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Triangle_of_Pascal\obj\Debug\Homework_Task_2.pdb
