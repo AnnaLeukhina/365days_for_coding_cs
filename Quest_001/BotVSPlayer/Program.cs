@@ -42,7 +42,7 @@ namespace BotVSPlayer
                             {
                                 Console.Write($"\n{Player}, введите число от 1 до 4, не превышающее оставшееся знаение выпавшего числа: ");
                                 userTry = Convert.ToByte(Console.ReadLine());
-                            } while (userTry > 4 || gameNumber - userTry < 0);   //если набранное число не удовлетворяет правилам игры, число запрашивается повторно
+                            } while (userTry < 1 || userTry > 4 || gameNumber - userTry < 0);   //если набранное число не удовлетворяет правилам игры, число запрашивается повторно
                             gameNumber -= userTry;                                           // введенное число вычитается из gameNumber
                             Console.WriteLine($"Значение числа после хода: {gameNumber}");   // Новое значение gameNumber показывается игрокам на экране.
                             if (gameNumber > 0) userPlay = 2;                                // Смена хода игрока
