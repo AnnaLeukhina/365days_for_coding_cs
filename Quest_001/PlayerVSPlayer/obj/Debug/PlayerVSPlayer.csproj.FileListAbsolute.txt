@@ -5,3 +5,10 @@ C:\Users\helen\GitLab_SkillBox\cs_developer_from_0_to_pro\3.1_Исходники
 C:\Users\helen\GitLab_SkillBox\cs_developer_from_0_to_pro\3.1_Исходники\Theme_03\Lesson_08\PlayerVSPlayer\obj\Debug\PlayerVSPlayer.csproj.CoreCompileInputs.cache
 C:\Users\helen\GitLab_SkillBox\cs_developer_from_0_to_pro\3.1_Исходники\Theme_03\Lesson_08\PlayerVSPlayer\obj\Debug\PlayerVSPlayer.exe
 C:\Users\helen\GitLab_SkillBox\cs_developer_from_0_to_pro\3.1_Исходники\Theme_03\Lesson_08\PlayerVSPlayer\obj\Debug\PlayerVSPlayer.pdb
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_001\PlayerVSPlayer\bin\Debug\PlayerVSPlayer.exe.config
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_001\PlayerVSPlayer\bin\Debug\PlayerVSPlayer.exe
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_001\PlayerVSPlayer\bin\Debug\PlayerVSPlayer.pdb
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_001\PlayerVSPlayer\obj\Debug\PlayerVSPlayer.csprojAssemblyReference.cache
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_001\PlayerVSPlayer\obj\Debug\PlayerVSPlayer.csproj.CoreCompileInputs.cache
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_001\PlayerVSPlayer\obj\Debug\PlayerVSPlayer.exe
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_001\PlayerVSPlayer\obj\Debug\PlayerVSPlayer.pdb

@@ -4,3 +4,9 @@ C:\Users\helen\GitLab_SkillBox\cs_developer_from_0_to_pro\3.1_Исходники
 C:\Users\helen\GitLab_SkillBox\cs_developer_from_0_to_pro\3.1_Исходники\Theme_03\Lesson_08\BotVSPlayer\obj\Debug\BotVSPlayer.csproj.CoreCompileInputs.cache
 C:\Users\helen\GitLab_SkillBox\cs_developer_from_0_to_pro\3.1_Исходники\Theme_03\Lesson_08\BotVSPlayer\obj\Debug\BotVSPlayer.exe
 C:\Users\helen\GitLab_SkillBox\cs_developer_from_0_to_pro\3.1_Исходники\Theme_03\Lesson_08\BotVSPlayer\obj\Debug\BotVSPlayer.pdb
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_001\BotVSPlayer\bin\Debug\BotVSPlayer.exe.config
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_001\BotVSPlayer\bin\Debug\BotVSPlayer.exe
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_001\BotVSPlayer\bin\Debug\BotVSPlayer.pdb
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_001\BotVSPlayer\obj\Debug\BotVSPlayer.csproj.CoreCompileInputs.cache
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_001\BotVSPlayer\obj\Debug\BotVSPlayer.exe
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_001\BotVSPlayer\obj\Debug\BotVSPlayer.pdb
