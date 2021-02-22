@@ -1,0 +1,7 @@
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Matrix_x_Matrix_edit\bin\Debug\Matrix_x_Matrix_edit.exe.config
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Matrix_x_Matrix_edit\bin\Debug\Matrix_x_Matrix_edit.exe
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Matrix_x_Matrix_edit\bin\Debug\Matrix_x_Matrix_edit.pdb
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Matrix_x_Matrix_edit\obj\Debug\Matrix_x_Matrix_edit.csprojAssemblyReference.cache
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Matrix_x_Matrix_edit\obj\Debug\Matrix_x_Matrix_edit.csproj.CoreCompileInputs.cache
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Matrix_x_Matrix_edit\obj\Debug\Matrix_x_Matrix_edit.exe
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Matrix_x_Matrix_edit\obj\Debug\Matrix_x_Matrix_edit.pdb
