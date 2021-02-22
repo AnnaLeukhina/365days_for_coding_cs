@@ -1,0 +1,7 @@
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Triangle_of_Pascal_edit\bin\Debug\Triangle_of_Pascal_edit.exe.config
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Triangle_of_Pascal_edit\bin\Debug\Triangle_of_Pascal_edit.exe
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Triangle_of_Pascal_edit\bin\Debug\Triangle_of_Pascal_edit.pdb
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Triangle_of_Pascal_edit\obj\Debug\Triangle_of_Pascal_edit.csprojAssemblyReference.cache
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Triangle_of_Pascal_edit\obj\Debug\Triangle_of_Pascal_edit.csproj.CoreCompileInputs.cache
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Triangle_of_Pascal_edit\obj\Debug\Triangle_of_Pascal_edit.exe
+C:\Users\helen\GitHub_MyOwn\365days_for_coding_cs\Quest_002\Triangle_of_Pascal_edit\obj\Debug\Triangle_of_Pascal_edit.pdb
