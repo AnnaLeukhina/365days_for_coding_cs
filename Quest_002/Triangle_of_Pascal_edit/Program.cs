@@ -32,16 +32,19 @@ namespace Triangle_of_Pascal_edit
     {
         static void Main()
         {
+            //переменные для проверки ввода-вывода
+            bool error;
+            int up = 1;
+
             //запрос кол-ва строк у пользователя и проверка на неправильный ввод
-            //
             byte lines_count;
-            Console.WriteLine("Введите кол-во строк в треугольнике Паскаля (менее 25): ");
+            Console.Write("Введите кол-во строк в треугольнике Паскаля (менее 25): ");
             do
             {
-                Byte.TryParse(Console.ReadLine(), out lines_count);
-            } while (lines_count < 1 || lines_count > 24);
-
-
+                error = Byte.TryParse(Console.ReadLine(), out lines_count);
+                if (!error || lines_count < 1 || lines_count >= 25) { Console.Write("Некорректный ввод. Повторите: "); }
+                up += 1;
+            } while (lines_count < 1 || lines_count >= 25);
 
             //создание пирамиды + заполнение краев пирамиды
             //
@@ -65,19 +68,14 @@ namespace Triangle_of_Pascal_edit
             }
 
 
-            //
-            //
-            string space = "     ";
-
             //вывод результата с последней строки
             //
             for (int i = triangle.Length - 1; i >= 0; i--)
             {
-                string pyramid = space;
-                for (int j = 0; j < triangle[i].Length; j++)
+                string pyramid = string.Empty;
+                for (int j = 0; j < Triangle[i].Length; j++)
                 {
-                    pyramid += triangle[i][j] + space;
-
+                    pyramid += $"{Triangle[i][j],10}";
                 }
                 //установить ширину окна консоли по ширине последней строки, если нужно
                 //
@@ -87,7 +85,7 @@ namespace Triangle_of_Pascal_edit
                 //
                 int center = Console.BufferWidth / 2;
                 int left = center - pyramid.Length / 2;
-                Console.SetCursorPosition(left, i + 2);
+                Console.SetCursorPosition(left, up + i + 2);
                 Console.Write(pyramid);
             }
 
